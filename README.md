@@ -14,7 +14,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/vvidhig/?">
-<img src="https://img.shields.io/badge/Discord-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-%23E4405F.svg?style=for-the-badge&logo=Discord&logoColor=white">
 </a>
 
 </div>
