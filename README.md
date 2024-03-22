@@ -163,26 +163,16 @@ Determined to master the complexities of Data Science, Machine Learning (ML), Ar
 
 ## Github stats 📊
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
+<summary>GitHub Profile Stats 💻</summary>
 
-  
-  [![Vidhi's github stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Vidhi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=tokyonight&theme=icegray&border_radius=8) |
+[![Vidhi's github stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Vidhi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
   <hr>
-</details>
 
-  <summary>Activity Graph 📈</summary>
-  <br/>
+<summary>Activity Graph 📈</summary>
 
 [![Vidhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</details>
-
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=vvidhige&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
+<summary>Profile Views 👁️</summary>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=vvidhige&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
