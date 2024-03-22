@@ -166,8 +166,9 @@ Determined to master the complexities of Data Science, Machine Learning (ML), Ar
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/vvidhig/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vvidhig&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/vvidhig/github-readme-stats"><img alt="vvidhig's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+    | ![Vidhi's github stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Vidhi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
+  <hr>
   <br/>
 </details>
 
