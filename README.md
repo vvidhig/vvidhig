@@ -24,6 +24,8 @@ welcome to my GitHub Page. I am Vidhi Gupta and now Computer Engineering student
 Determined to master the complexities of Data Science, Machine Learning (ML), Artificial Intelligence (AI), Deep Learning, and Natural Language Processing (NLP), I am deeply passionate about leveraging technology to tackle real-world problems. Proficient in Python and its libraries for comprehensive data analysis, I am currently immersed in learning Convolutional Neural Networks (CNN) to further deepen my understanding of deep learning techniques. Moreover, I possess expertise in Exploratory Data Analysis (EDA), web scraping, and harnessing the power of Tableau for impactful data visualization.
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -144,6 +146,9 @@ Determined to master the complexities of Data Science, Machine Learning (ML), Ar
  <tr>
  </tr>
 </table>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ## Github stats 📊
 
