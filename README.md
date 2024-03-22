@@ -1,7 +1,7 @@
 ### Hey there, I am Vidhi 👋
 
-- 🔭 I’m currently pursuing my B.Tech in Computer Science from Heritage Institute of Technology, Kolkata
-- 🌱 I’m currently learning Data Science and Machine Learning from [GeeksForGeeks][https://www.geeksforgeeks.org/courses/data-science-live]
+- 🔭 I’m currently pursuing my B.Tech in Computer Science from Heritage Institute of Technology, Kolkata<br/>
+- 🌱 I’m currently learning Data Science and Machine Learning from [GeeksForGeeks][https://www.geeksforgeeks.org/courses/data-science-live]<br/>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
