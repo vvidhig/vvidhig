@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/vvidhig/vvidhig/main/intro.gif" alt="👋 Hi there! I'm Vidhi" title="👋 Hi there! I'm Vidhi"/>
 <div align="justify">
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/vvidhig/?">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
