@@ -13,8 +13,8 @@
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/vvidhig/?">
-<img src="https://img.shields.io/badge/Discord-%23E4405F.svg?style=for-the-badge&logo=Discord&logoColor=white">
+<a href="https://discordapp.com/users/759381378986541056">
+<img src="https://dcbadge.vercel.app/api/shield/406125028065804289">
 </a>
 
 </div>
