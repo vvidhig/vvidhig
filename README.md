@@ -31,10 +31,6 @@ Determined to master the complexities of Data Science, Machine Learning (ML), Ar
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
