@@ -20,8 +20,8 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
-
+welcome to my GitHub Page. I am Vidhi Gupta and now Computer Engineering student at Heritage Institute of Technology, Kolkata.
+Determined to master the complexities of Data Science, Machine Learning (ML), Artificial Intelligence (AI), Deep Learning, and Natural Language Processing (NLP), I am deeply passionate about leveraging technology to tackle real-world problems. Proficient in Python and its libraries for comprehensive data analysis, I am currently immersed in learning Convolutional Neural Networks (CNN) to further deepen my understanding of deep learning techniques. Moreover, I possess expertise in Exploratory Data Analysis (EDA), web scraping, and harnessing the power of Tableau for impactful data visualization.
 </p>
 
 ## My favorite tools and technologies ⚙️
@@ -31,7 +31,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
