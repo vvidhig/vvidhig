@@ -22,11 +22,6 @@
 <img src="https://img.shields.io/badge/Discord-593D88?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<br>
-<hr>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-<br>
-<hr>
 
 </div>
 <p></p>
@@ -167,11 +162,14 @@ Determined to master the complexities of Data Science, Machine Learning (ML), Ar
 
 [![Vidhi's github stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Vidhi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
-  <hr>
+<hr>
 
 <summary>Activity Graph 📈</summary>
-
-[![Vidhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+<hr>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<br>
+<hr>
 
 <summary>Profile Views 👁️</summary>
 <br/>
