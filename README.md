@@ -1,3 +1,6 @@
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+<br>
+
 # About Me -
 
 </div>
@@ -54,13 +57,14 @@ Let's connect and explore the endless possibilities of AI together!
 <br>
 <hr>
 
-# Github stats 📊
+# GitHub Activity :
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vvidhig&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vidhi's github stats" /></a> | <a href="https://github.com/vvidhig/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-<hr>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-<hr>
-
-<img src="https://komarev.com/ghpvc/?username=vvidhige&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+<table>
+    <tr>
+        <td align="center"><<a href="https://github.com/vvidhig#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vvidhig&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/vvidhig#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vvidhig#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/vvidhig#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=default"/></a><a href="https://github.com/vvidhig#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=tokyonight"/></a></td>
+    </tr>
+</table>
