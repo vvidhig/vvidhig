@@ -155,7 +155,7 @@ Determined to master the complexities of Data Science, Machine Learning (ML), Ar
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/vvidhig/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=vvidhig&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="vvidhig's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/vvidhig/github-readme-stats"><img alt="vvidhig's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 
@@ -163,7 +163,7 @@ Determined to master the complexities of Data Science, Machine Learning (ML), Ar
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rzashakeri&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
@@ -171,7 +171,7 @@ Determined to master the complexities of Data Science, Machine Learning (ML), Ar
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=vidhige&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
 
@@ -179,43 +179,14 @@ Determined to master the complexities of Data Science, Machine Learning (ML), Ar
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-  <img src="https://wakatime.com/share/@rzashakeri/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+  <img src="https://wakatime.com/share/@vvidhig/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
   <br/>
   <br/>
   <br/>
 
-  <img src="https://wakatime.com/share/@rzashakeri/b43da924-55df-4315-897d-e4dd9fb798f9.png">
+  <img src="https://wakatime.com/share/@vvidhig/b43da924-55df-4315-897d-e4dd9fb798f9.png">
 </details>
 
-
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <a href="https://github.com/rzashakeri/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
- </a>
-
-
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/rzashakeri/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
- </a>
- 
-</details>
 
 ## Recent GitHub Activity ✅
 
