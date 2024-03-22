@@ -22,7 +22,11 @@
 <img src="https://img.shields.io/badge/Discord-593D88?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
+<br>
+<hr>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<br>
+<hr>
 
 </div>
 <p></p>
