@@ -54,6 +54,7 @@ Let's connect and explore the endless possibilities of AI together!
 <a href="https://discordapp.com/users/759381378986541056">
 <img src="https://img.shields.io/badge/Discord-593D88?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+
 <br>
 <hr>
 
