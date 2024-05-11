@@ -69,7 +69,7 @@ Let's connect and explore the endless possibilities of AI together!
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig\&layout=compact\&theme=radical)
 
 </td></tr>
-<tr><td colspan="2">
+<tr><td colspan="2" align="center">
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=radical)
 
