@@ -1,7 +1,7 @@
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 <br>
 
-# About Me -
+# 🍄 About Me -
 
 </div>
 <p></p>
@@ -32,7 +32,7 @@ Let's connect and explore the endless possibilities of AI together!
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# Let's Connect on -
+# 🍄 Let's Connect on -
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
@@ -58,7 +58,7 @@ Let's connect and explore the endless possibilities of AI together!
 <br>
 <hr>
 
-# GitHub Activity :
+# 🍄 GitHub Activity :
 <table align="center">
 <tr><td>
 
@@ -77,7 +77,7 @@ Let's connect and explore the endless possibilities of AI together!
 <br>
 <hr>
 
-# My Projects :
+# 🍄 My Projects :
 <table align="center" cellspacing="3"><tr><td>
     
 <a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=radical"></a>
@@ -94,7 +94,10 @@ Let's connect and explore the endless possibilities of AI together!
 
 <a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=radical"></a>
 
-</td></tr></table>
+</td></tr>
+<tr>
+    <td align="center" colspan="2"><i>If you liked them, please consider giving them a ⭐!</i></td>
+</tr></table>
 
 ![Thank you for visiting](https://github.com/ari-hacks/ari-hacks/raw/main/gifs/thank-you-for-visiting.gif)
 
