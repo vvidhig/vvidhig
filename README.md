@@ -60,7 +60,7 @@ Let's connect and explore the endless possibilities of AI together!
 
 # 🍄 GitHub Activity :
 <table align="center">
-<tr><td>
+<tr><td align="center">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=radical)
 
@@ -69,7 +69,7 @@ Let's connect and explore the endless possibilities of AI together!
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig\&layout=compact\&theme=radical)
 
 </td></tr>
-<tr><td>
+<tr><td colspan="2">
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=radical)
 
