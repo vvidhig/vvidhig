@@ -62,15 +62,36 @@ Let's connect and explore the endless possibilities of AI together!
 <table align="center">
 <tr><td>
 
-![Vidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=radical)
+
+</td><td>
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact\&theme=radical)
 
 </td></tr>
-
 <tr><td>
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=radical)
 
-</td></tr>
-</table>
+</td></tr></table>
+<br>
+<hr>
 
-<!-- >![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=radical)
+# My Projects :
+<table align="center" cellspacing="3"><tr><td>
+    
+![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=radical)
+
+</td><td>
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=radical)
+
+</td></tr><tr><td>
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=radical)
+
+</td><td>
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=radical)
+
+</td></tr></table>
