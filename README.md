@@ -59,13 +59,18 @@ Let's connect and explore the endless possibilities of AI together!
 <hr>
 
 # GitHub Activity :
+<table align="center">
+<tr><td>
 
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/vvidhig#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vvidhig&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/vvidhig#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vvidhig#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/vvidhig#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=default"/></a><a href="https://github.com/vvidhig#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=tokyonight"/></a></td>
-    </tr>
+![Vidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=radical)
+
+</td></tr>
+
+<tr><td>
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=radical)
+
+</td></tr>
 </table>
+
+<!-- >![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=radical)
