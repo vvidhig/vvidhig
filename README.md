@@ -66,7 +66,7 @@ Let's connect and explore the endless possibilities of AI together!
 
 </td><td>
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact\&theme=radical)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig\&layout=compact\&theme=radical)
 
 </td></tr>
 <tr><td>
