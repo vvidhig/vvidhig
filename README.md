@@ -80,18 +80,21 @@ Let's connect and explore the endless possibilities of AI together!
 # My Projects :
 <table align="center" cellspacing="3"><tr><td>
     
-![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=radical)<a href="https://github.com/vvidhig/Loan-Prediction-Model-Package">
 
 </td><td>
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=radical)<a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model">
 
 </td></tr><tr><td>
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=radical)<a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data">
 
 </td><td>
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=radical)<a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model">
 
 </td></tr></table>
+
+![Thank you for visiting](https://github.com/ari-hacks/ari-hacks/raw/main/gifs/thank-you-for-visiting.gif)
+
