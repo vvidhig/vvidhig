@@ -100,6 +100,6 @@ Let's connect and explore the endless possibilities of AI together!
 </tr></table>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=🦋%20%20Have%20a%20GREAT%20day%20ahead!%20%20🦋&fontColor=FFFFFF&fontSize=40&animation=twinkling&fontAlign=50&fontAlignY=70&color=gradient&&customColorList=6,24,2,28,30&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20%20have%20a%20great%20day%20ahead!%20%20&fontColor=FFFFFF&fontSize=40&animation=twinkling&fontAlign=50&fontAlignY=70&color=gradient&&customColorList=6,24,2,28,30&section=footer">
 </div>
  
