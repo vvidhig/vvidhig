@@ -5,11 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=70&duration=8000&lines=Hello+There!+I+am+Vidhi+Gupta;+an+aspiring+data+scientist;" />
 </h1>
 
+<h1 align="center">
+    <img src="https://github.com/vvidhig/vvidhig/blob/main/giphy.webp" />
+</h1>
 </div>
 <p></p>
 <p align="justify">
-👋 Hello there, it's a pleasure having you here! I'm Vidhi Gupta, an aspiring ML engineer from India.<br>
-🎓 Currently, I'm pursuing B.Tech in Computer Engineering at Heritage Institute of Technology, Kolkata.<br>
+🎓 Currently, I'm pursuing B.Tech in Computer Engineering at <a href="https://www.heritageit.edu/">Heritage Institute of Technology, Kolkata</a><br>
 🚀 My passion lies in mastering the intricacies of Data Science, ML, AI, Deep Learning, and NLP to solve real-world challenges.<br>
 🔍 I specialize in Exploratory Data Analysis (EDA), web scraping, and crafting compelling data stories using Tableau.<br>
 💻 Proficient in Python, I'm currently delving into Convolutional Neural Networks (CNN) to enhance my deep learning skills.<br>
