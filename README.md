@@ -1,27 +1,33 @@
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
-<br>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=70&duration=8000&lines=Hello+There!+I+am+Vidhi+Gupta;+an+aspiring+data+scientist;" />
 </h1>
 
-<h1 align="center">
-    <img src="https://github.com/vvidhig/vvidhig/blob/main/giphy.webp" />
-</h1>
-</div>
-<p></p>
-<p align="justify">
-🎓 Currently, I'm pursuing B.Tech in Computer Engineering at <a href="https://www.heritageit.edu/">Heritage Institute of Technology, Kolkata</a><br>
-🚀 My passion lies in mastering the intricacies of Data Science, ML, AI, Deep Learning, and NLP to solve real-world challenges.<br>
-🔍 I specialize in Exploratory Data Analysis (EDA), web scraping, and crafting compelling data stories using Tableau.<br>
-💻 Proficient in Python, I'm currently delving into Convolutional Neural Networks (CNN) to enhance my deep learning skills.<br>
+<div>
+<img align="right" height="320" width="460" src="https://github.com/vvidhig/vvidhig/blob/main/giphy.webp">
+ <p align="left">
+     
+- pursuing a bachelor's degree in computer science (2026 batch)
+
+- I'm an aquarius and intj-a
+  
+- I'm presently working as a junior data scientist at Omdena
+
+- I'm learning gen ai and mlops right now
+
+- I'm a bookworm and a weeb.
+
+- I tutor school students 
+
+- How to contact me  **vidhidoesnotreply@gmail.com**
+  
 </p>
-<br>
+</div>
+
+<br><br>
 
 <div align="center">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
     
-# Languages & Tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -70,7 +76,6 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-8A2BE2?style=for-the-badge&logo=google%20colab&logoColor=white) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 </div>
-<hr>
 
 <div align="center">
 
@@ -93,7 +98,6 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
     
@@ -112,8 +116,8 @@
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=radical)
 </td></tr></table>
-<hr>
 </div>
+
 <div align="center">
 
 # Projects
@@ -137,7 +141,6 @@
     <td align="center" colspan="2"><i>If you liked them, please consider giving them a ⭐!</i></td>
 </tr></table>
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20%20have%20a%20great%20day%20ahead!%20%20&fontColor=FFFFFF&fontSize=40&animation=twinkling&fontAlign=50&fontAlignY=70&color=gradient&&customColorList=6,24,2,28,30&section=footer">
