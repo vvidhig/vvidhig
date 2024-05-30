@@ -13,7 +13,6 @@
 🚀 My passion lies in mastering the intricacies of Data Science, ML, AI, Deep Learning, and NLP to solve real-world challenges.<br>
 🔍 I specialize in Exploratory Data Analysis (EDA), web scraping, and crafting compelling data stories using Tableau.<br>
 💻 Proficient in Python, I'm currently delving into Convolutional Neural Networks (CNN) to enhance my deep learning skills.<br>
-Let's connect and explore the endless possibilities of AI together!
 </p>
 <br>
 
@@ -91,14 +90,6 @@ Let's connect and explore the endless possibilities of AI together!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/vvidhig/?">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/vvidhig/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discordapp.com/users/759381378986541056">
-<img src="https://img.shields.io/badge/Discord-593D88?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </div>
 <hr>
