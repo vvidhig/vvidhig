@@ -3,20 +3,22 @@
 </h1>
 
 <div>
-<img align="right" height="320" width="460" src="https://github.com/vvidhig/vvidhig/blob/main/giphy.webp">
+<img align="right" height="320" width="460" src="https://github.com/vvidhig/vvidhig/blob/main/119119-luffy-png-file-hd.png">
  <p align="left">
      
 - pursuing a bachelor's degree in computer science (2026 batch)
 
-- I'm an aquarius and intj-a
+- from Kolkata, West Bengal, India (roots from Gorakhpur, UP)
+
+- an aquarius and intj-a
   
-- I'm presently working as a junior data scientist at Omdena
+- presently working as a junior data scientist at Omdena
 
-- I'm learning gen ai and mlops right now
+- learning gen ai and mlops right now
 
-- I'm a bookworm and a weeb.
+- a bookworm and a weeb
 
-- I tutor school students 
+- I tutor school students
 
 - How to contact me  **vidhidoesnotreply@gmail.com**
   
@@ -142,8 +144,10 @@
 </tr></table>
 </div>
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20%20have%20a%20great%20day%20ahead!%20%20&fontColor=FFFFFF&fontSize=40&animation=twinkling&fontAlign=50&fontAlignY=70&color=gradient&&customColorList=6,24,2,28,30&section=footer">
-</div>
+<h1 align="center">
+    <img src="https://github.com/vvidhig/vvidhig/blob/main/bybye.gif" />
+</h1>
+
+
 
 
