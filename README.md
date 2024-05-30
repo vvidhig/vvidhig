@@ -2,7 +2,7 @@
 <br>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+There!+I'm+Vidhi;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=70&duration=8000&lines=Hello+There!+I+am+Vidhi+Gupta;+an+aspiring+data+scientist;" />
 </h1>
 
 </div>
@@ -68,8 +68,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-8A2BE2?style=for-the-badge&logo=google%20colab&logoColor=white) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 </div>
-<br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<hr>
 
 <div align="center">
 
@@ -92,7 +91,7 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 </div>
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
     
@@ -136,6 +135,7 @@
     <td align="center" colspan="2"><i>If you liked them, please consider giving them a ⭐!</i></td>
 </tr></table>
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20%20have%20a%20great%20day%20ahead!%20%20&fontColor=FFFFFF&fontSize=40&animation=twinkling&fontAlign=50&fontAlignY=70&color=gradient&&customColorList=6,24,2,28,30&section=footer">
