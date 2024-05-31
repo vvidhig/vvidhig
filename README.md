@@ -32,7 +32,7 @@
 
 <div align="center">
     
-# Languages & Tools
+# 🌀 Languages & Tools 🌀
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-# Socials
+# 🍥 Socials 🍥
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
@@ -110,7 +110,7 @@
 
 <div align="center">
     
-# GitHub Activity
+# 📍 Activity 📍
 
 <table align="center">    
 <tr><td align="center">
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-# Projects
+# 🍉 Projects 🍉
 
 <table align="center" cellspacing="3"><tr><td>
 <a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=highcontrast"></a>
