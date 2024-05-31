@@ -124,19 +124,22 @@
     <tr>
         <td align="center" colspan="2">
             <p align="center">
-              <a href="https://github.com/alsiam">
+              <a href="https://github.com/vvidhig">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvidhig&theme=highcontrast" alt="Vidhi's GitHub Contribution"/>
   </a>
-</p>
-        </td>
-    </tr>
+</p></td> </tr>
 <tr>  <td align="center">
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&theme=highcontrast)
 
-</td><td>
+</td><td align="center">
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig\&layout=compact\&theme=highcontrast)
+
+</td></tr>
+<tr><td align="center" colspan="2">
+    
+![Vidhi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&custom_title=Vidhi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e7f216&line=e7f216&point=e7f216&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </td></tr></table>
 </div>
