@@ -6,13 +6,13 @@
 <img align="right" height="380" width="460" src="https://github.com/vvidhig/vvidhig/blob/main/sticker-png-monkey-d-luffy-one-piece-character-removebg.jpg">
  <p align="left">
      
-- pursuing a bachelor's degree in computer science (2026 batch)
+- pursuing a bachelor's degree in computer science (2026 batch) from Heritage Institute of Technology
 
-- from Kolkata, West Bengal, India (roots from Gorakhpur, UP)
+- live in Kolkata, West Bengal, India (from Gorakhpur, UP)
 
 - an aquarius and intj-a
   
-- presently working as a junior data scientist at Omdena
+- working as a junior data scientist at Omdena
 
 - learning gen ai and mlops right now
 
