@@ -34,8 +34,6 @@
     
 # Languages & Tools
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0258.gif" border="0" alt="animated-line-image-0258" /></a>
-<br><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -106,11 +104,12 @@
 </a>
 </div>
 
+<img src="png-transparent-one-piece-illustration-monkey-d-luffy-one-piece-animated-cartoon-sticker-one-piece-comics-child-friendship.png" height="400" width="1000">
+
 <div align="center">
     
 # GitHub Activity
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0258.gif" border="0" alt="animated-line-image-0258" /></a>
 <table align="center">    
 <tr><td align="center">
 
@@ -131,7 +130,6 @@
 
 # Projects
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0258.gif" border="0" alt="animated-line-image-0258" /></a>
 <table align="center" cellspacing="3"><tr><td>
 <a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=monokai"></a>
 
@@ -149,7 +147,7 @@
 
 </td></tr>
 <tr>
-    <td align="center" colspan="2"><i>If you liked them, please consider giving them a ⭐!</i></td>
+    <td align="center" colspan="2"><h3 align="center">Show some  &nbsp;❤️&nbsp;by giving some of the repositories a &nbsp;⭐&nbsp;!</h3></td>
 </tr></table>
 </div>
 
