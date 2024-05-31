@@ -115,16 +115,16 @@
 <table align="center">    
 <tr><td align="center">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=monokai)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=highcontrast)
 
 </td><td>
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig\&layout=compact\&theme=monokai)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig\&layout=compact\&theme=highcontrast)
 
 </td></tr>
 <tr><td colspan="2" align="center">
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=monokai)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=highcontrast)
 </td></tr></table>
 </div>
 
@@ -133,19 +133,19 @@
 # Projects
 
 <table align="center" cellspacing="3"><tr><td>
-<a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=monokai"></a>
+<a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=highcontrast"></a>
 
 </td><td>
 
-<a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=monokai"></a>
+<a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=highcontrast"></a>
 
 </td></tr><tr><td>
 
-<a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=monokai"></a>
+<a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=highcontrast"></a>
 
 </td><td>
 
-<a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=monokai"></a>
+<a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=highcontrast"></a>
 
 </td></tr>
 <tr>
