@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-<img align="right" height="380" width="460" src="https://github.com/vvidhig/vvidhig/blob/main/119119-luffy-png-file-hd.png">
+<img align="right" height="380" width="460" src="https://github.com/vvidhig/vvidhig/blob/main/sticker-png-monkey-d-luffy-one-piece-character-removebg.jpg">
  <p align="left">
      
 - pursuing a bachelor's degree in computer science (2026 batch)
@@ -104,7 +104,9 @@
 </a>
 </div>
 
-<img src="png-transparent-one-piece-illustration-monkey-d-luffy-one-piece-animated-cartoon-sticker-one-piece-comics-child-friendship.png" height="400" width="1000">
+<div align="center">
+<img src="https://github.com/vvidhig/vvidhig/blob/main/png-transparent-one-piece-illustration-monkey-d-luffy-one-piece-animated-cartoon-sticker-one-piece-comics-child-friendship-removebg-preview.jpg" height="400" width="900">
+</div>
 
 <div align="center">
     
