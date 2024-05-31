@@ -104,6 +104,10 @@
 </a>
 </div>
 
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=vvidhig&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 <div align="center">
 <img src="https://github.com/vvidhig/vvidhig/blob/main/png-transparent-one-piece-illustration-monkey-d-luffy-one-piece-animated-cartoon-sticker-one-piece-comics-child-friendship-removebg-preview.jpg" height="400" width="900">
 </div>
@@ -112,19 +116,28 @@
     
 # 📍 Activity 📍
 
-<table align="center">    
-<tr><td align="center">
+<table align="center">  
+    <tr><td colspan="2" align="center">
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=highcontrast)
+</td></tr>
+    <tr>
+        <td align="center" colspan="2">
+            <p align="center">
+              <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvidhig&theme=highcontrast" alt="Vidhi's GitHub Contribution"/>
+  </a>
+</p>
+        </td>
+    </tr>
+<tr>  <td align="center">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=highcontrast)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&theme=highcontrast)
 
 </td><td>
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig\&layout=compact\&theme=highcontrast)
 
-</td></tr>
-<tr><td colspan="2" align="center">
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=highcontrast)
 </td></tr></table>
 </div>
 
