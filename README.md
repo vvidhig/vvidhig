@@ -137,9 +137,7 @@
 
 </td></tr>
 <tr><td align="center" colspan="2">
-    
-![Vidhi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&custom_title=Vidhi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e7f216&line=e7f216&point=e7f216&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&custom_title=Vidhi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e7f216&line=e7f216&point=e7f216&area_color=FFFFFF&title_color=FFFFFF&area=true" width="800">
 </td></tr></table>
 </div>
 
