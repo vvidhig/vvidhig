@@ -1,4 +1,4 @@
-<h1 align="right"><a href="https://komarev.com/ghpvc/?username=vvidhig"><img align="center" src="https://komarev.com/ghpvc/?username=vvidhig&label=Visitors&color=b30059&style=flat" alt="Profile visitor" height="40" width="120"/></a></h1>
+<h1 align="right"><a href="https://komarev.com/ghpvc/?username=vvidhig"><img align="center" src="https://komarev.com/ghpvc/?username=vvidhig&label=Visitors&color=b30059&style=flat" alt="Profile visitor" height="30" width="120"/></a></h1>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=70&duration=8000&lines=Hello+There!+I+am+Vidhi+Gupta;+an+aspiring+data+scientist;" />
