@@ -48,7 +48,6 @@
 [![Flask](https://img.shields.io/badge/Flask-262626?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-262626?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) 
 [![MLflow](https://img.shields.io/badge/MLflow-262626?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
-<br>
 [![Jenkins](https://img.shields.io/badge/Jenkins-262626?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-262626?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-262626?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
