@@ -34,7 +34,7 @@
 
 <div align="center">
     
-# 🌀 Languages & Tools 🌀
+# Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -42,41 +42,33 @@
 ![C](https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-<br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 [![Azure](https://img.shields.io/badge/Azure-4d004d?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-<br>
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) 
-<br>
 [![MLflow](https://img.shields.io/badge/MLflow-000066?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-b30000?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-cc8800?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-3776AB?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
-<br>
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=orange) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-006400?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-E67C2C?style=for-the-badge&logo=pytorch&logoColor=purple)
-<br>
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-800040?style=for-the-badge&logo=pandas&logoColor=white) 
 [![Web Scraping](https://img.shields.io/badge/Web_Scraping-000000?style=for-the-badge)](https://en.wikipedia.org/wiki/Web_scraping)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-FF7A9A?style=for-the-badge&logo=seaborn&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-b30059?style=for-the-badge&logo=opencv&logoColor=white)
-<br>
 ![Tableau](https://img.shields.io/badge/Tableau-FFFFFF?style=for-the-badge&logo=tableau&logoColor=blue) 
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/) 
 [![Docker](https://img.shields.io/badge/Docker-000066?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-<br>
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-DC143C?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![replit](https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white) 
@@ -86,7 +78,7 @@
 
 <div align="center">
 
-# 🍥 Socials 🍥
+# Socials 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
@@ -108,36 +100,32 @@
 
 
 <div align="center">
-<img src="https://github.com/vvidhig/vvidhig/blob/main/png-transparent-one-piece-illustration-monkey-d-luffy-one-piece-animated-cartoon-sticker-one-piece-comics-child-friendship-removebg-preview.jpg" height="400" width="900">
-</div>
-
-<div align="center">
     
-# 📍 Activity 📍
+# Activity
 
 <table align="center">  
     <tr><td colspan="2" align="center">
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=highcontrast)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=noctis_minimus)
 </td></tr>
     <tr>
         <td align="center" colspan="2">
             <p align="center">
               <a href="https://github.com/vvidhig">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvidhig&theme=highcontrast" alt="Vidhi's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvidhig&theme=noctis_minimus" alt="Vidhi's GitHub Contribution"/>
   </a>
 </p></td> </tr>
 <tr>  <td align="center">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&theme=highcontrast)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&theme=noctis_minimus)
 
 </td><td align="center">
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig\&layout=compact\&theme=highcontrast)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig\&layout=compact\&theme=noctis_minimus)
 
 </td></tr>
 <tr><td align="center" colspan="2">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&custom_title=Vidhi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e7f216&line=e7f216&point=e7f216&area_color=FFFFFF&title_color=FFFFFF&area=true" width="800">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&bg_color=1B2932&color=D3B692&line=D3B692&point=D3B692&area_color=FFFFFF&title_color=D3B692&area=true" width="800">
 </td></tr></table>
 </div>
 
@@ -146,19 +134,19 @@
 # 🍉 Projects 🍉
 
 <table align="center" cellspacing="3"><tr><td>
-<a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=highcontrast"></a>
+<a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=noctis_minimus"></a>
 
 </td><td>
 
-<a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=highcontrast"></a>
+<a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=noctis_minimus"></a>
 
 </td></tr><tr><td>
 
-<a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=highcontrast"></a>
+<a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=noctis_minimus"></a>
 
 </td><td>
 
-<a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=highcontrast"></a>
+<a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=noctis_minimus"></a>
 
 </td></tr>
 <tr>
