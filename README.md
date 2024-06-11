@@ -1,7 +1,7 @@
-<h1 align="right"><a href="https://komarev.com/ghpvc/?username=vvidhig"><img align="center" src="https://komarev.com/ghpvc/?username=vvidhig&label=Visitors&color=b30059&style=flat" alt="Profile visitor" height="30" width="120"/></a></h1>
+<h1 align="right"><a href="https://komarev.com/ghpvc/?username=vvidhig"><img align="center" src="https://komarev.com/ghpvc/?username=vvidhig&label=Visitors&color=000000&style=flat" alt="Profile visitor" height="30" width="120"/></a></h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=70&duration=8000&lines=Hello+There!+I+am+Vidhi+Gupta;+an+aspiring+data+scientist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&color=FFFFFF&vCenter=true&width=700&height=70&duration=8000&lines=Heya!+I+am+Vidhi;+an+aspiring+data+scientist;" />
 </h1>
 
 <div>
@@ -104,29 +104,23 @@
 # Activity
 
 <table align="center">  
-    <tr><td colspan="2" align="center">
+    <tr><td align="center">
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=noctis_minimus)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=apprentice)
+</td>
+<td align="center">
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&theme=apprentice)
+
 </td></tr>
     <tr>
         <td align="center" colspan="2">
             <p align="center">
               <a href="https://github.com/vvidhig">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvidhig&theme=noctis_minimus" alt="Vidhi's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvidhig&theme=apprentice" alt="Vidhi's GitHub Contribution" width="900"/>
   </a>
 </p></td> </tr>
-<tr>  <td align="center">
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&rank_icon=github\&show_icons=true\&theme=noctis_minimus)
-
-</td><td align="center">
-
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig\&layout=compact\&theme=noctis_minimus)
-
-</td></tr>
-<tr><td align="center" colspan="2">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvidhig&bg_color=1B2932&color=D3B692&line=D3B692&point=D3B692&area_color=FFFFFF&title_color=D3B692&area=true" width="800">
-</td></tr></table>
+</table>
 </div>
 
 <div align="center">
@@ -134,19 +128,19 @@
 # 🍉 Projects 🍉
 
 <table align="center" cellspacing="3"><tr><td>
-<a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=noctis_minimus"></a>
+<a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=apprentice"></a>
 
 </td><td>
 
-<a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=noctis_minimus"></a>
+<a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=apprentice"></a>
 
 </td></tr><tr><td>
 
-<a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=noctis_minimus"></a>
+<a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=apprentice"></a>
 
 </td><td>
 
-<a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=noctis_minimus"></a>
+<a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=apprentice"></a>
 
 </td></tr>
 <tr>
