@@ -1,7 +1,7 @@
 <h1 align="right"><a href="https://komarev.com/ghpvc/?username=vvidhig"><img align="center" src="https://komarev.com/ghpvc/?username=vvidhig&label=Visitors&color=000000&style=flat" alt="Profile visitor" height="30" width="120"/></a></h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&color=FFFFFF&vCenter=true&width=900&height=80&duration=8000&lines=Heya!+I+am+Vidhi+☁️🫧💿🩶;+an+aspiring+data+scientist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&color=FFFFFF&vCenter=true&width=900&height=80&duration=8000&lines=Heya!+I+am+Vidhi+☁️🫧💿🩶;+an+aspiring+data+scientist;" height="150"/>
 </h1>
 
 <div>
@@ -28,15 +28,13 @@
  “only I get to call my dreams stupid”
 ```
 
-# 
-
-<br>
+#
 
 </div>
 
 <div align="center">
     
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&color=FFFFFF&vCenter=true&width=600&height=60&lines=my+tech+stack;" />
+<img src="https://github.com/vvidhig/vvidhig/blob/main/techstack.png" height="150" width="800" />
 
 ![Python](https://img.shields.io/badge/Python-262626?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-262626?style=for-the-badge&logo=c&logoColor=white) 
@@ -66,11 +64,9 @@
 
 #
 
-<br>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&color=FFFFFF&vCenter=true&width=600&height=60&lines=connect+with+me;" /> 
+<img src="https://github.com/vvidhig/vvidhig/blob/main/connectwithme.png" height="150" width="800" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
@@ -92,11 +88,9 @@
 
 #
 
-<br>
-
 <div align="center">
     
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&color=FFFFFF&vCenter=true&width=600&height=60&lines=my+github+activity;" />
+<img src="https://github.com/vvidhig/vvidhig/blob/main/githubactivity.png" height="150" width="800" />
 
 <table align="center">  
     <tr><td align="center">
@@ -120,11 +114,9 @@
 
 #
 
-<br>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&color=FFFFFF&vCenter=true&width=600&height=60&lines=my+projects;" />
+<img src="https://github.com/vvidhig/vvidhig/blob/main/project.png" height="150" width="800" />
 
 <table align="center" cellspacing="3"><tr><td>
 <a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=apprentice"></a>
