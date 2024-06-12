@@ -34,7 +34,7 @@
 
 <div align="center">
     
-<img src="https://github.com/vvidhig/vvidhig/blob/main/techstack.png" height="150" width="800" />
+<img src="https://github.com/vvidhig/vvidhig/blob/main/techstack.png" height="130" width="700" />
 
 ![Python](https://img.shields.io/badge/Python-262626?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-262626?style=for-the-badge&logo=c&logoColor=white) 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github.com/vvidhig/vvidhig/blob/main/connectwithme.png" height="150" width="800" />
+<img src="https://github.com/vvidhig/vvidhig/blob/main/connectwithme.png" height="130" width="700" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
@@ -90,7 +90,7 @@
 
 <div align="center">
     
-<img src="https://github.com/vvidhig/vvidhig/blob/main/githubactivity.png" height="150" width="800" />
+<img src="https://github.com/vvidhig/vvidhig/blob/main/githubactivity.png" height="130" width="700" />
 
 <table align="center">  
     <tr><td align="center">
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://github.com/vvidhig/vvidhig/blob/main/project.png" height="150" width="800" />
+<img src="https://github.com/vvidhig/vvidhig/blob/main/project.png" height="120" width="700" />
 
 <table align="center" cellspacing="3"><tr><td>
 <a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=apprentice"></a>
