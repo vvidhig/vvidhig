@@ -1,7 +1,7 @@
 <h1 align="right"><a href="https://komarev.com/ghpvc/?username=vvidhig"><img align="center" src="https://komarev.com/ghpvc/?username=vvidhig&label=Visitors&color=000000&style=flat" alt="Profile visitor" height="30" width="120"/></a></h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&color=FFFFFF&vCenter=true&width=900&height=80&duration=8000&lines=heya!+i+am+vidhi+☁️🩶;" height="150"/>
+    <img src="https://github.com/vvidhig/vvidhig/blob/main/75feec7d2a02e8095331ae310025653b.gif" height="300" width="800" />
 </h1>
 
 <div>
