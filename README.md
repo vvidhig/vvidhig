@@ -6,21 +6,15 @@
 
 <div>
      
-- pursuing a bachelor's degree in computer science (2026 batch) from Heritage Institute of Technology
+- pursuing a bachelor's degree in computer science (2026 batch)
 
-- live in Kolkata, West Bengal, India (from Gorakhpur, UP)
-
-- an aquarius and intj-a
+- lives in Kolkata, India (from Gorakhpur)
   
 - working as a junior data scientist at Omdena
 
 - learning gen ai and mlops right now
 
 - a bookworm and a weeb
-
-- I tutor school students
-
-- How to contact me  **vidhidoesnotreply@gmail.com**
 
 </p>
 
