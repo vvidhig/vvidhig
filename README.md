@@ -52,6 +52,7 @@
 [![Docker](https://img.shields.io/badge/Docker-F8D847?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
 [![Postman](https://img.shields.io/badge/Postman-AE81FF?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-A9FEF7?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+<br>
 ![MySQL](https://img.shields.io/badge/MySQL-141321?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-DA5B0B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-D83A7C?style=for-the-badge&logo=html5&logoColor=white) 
