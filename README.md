@@ -1,4 +1,4 @@
-<h1 align="right"><a href="https://komarev.com/ghpvc/?username=vvidhig"><img align="center" src="https://komarev.com/ghpvc/?username=vvidhig&label=Visitors&color=000000&style=flat" alt="Profile visitor" height="30" width="120"/></a></h1>
+<h1 align="right"><a href="https://komarev.com/ghpvc/?username=vvidhig"><img align="center" src="https://komarev.com/ghpvc/?username=vvidhig&label=Viewers&color=000000&style=flat" alt="Profile visitor" height="30" width="120"/></a></h1>
 
 <h1 align="center">
     <img src="https://github.com/vvidhig/vvidhig/blob/main/4494406b0e685995eaeb744e1ff0919c.gif" height="350" width="900" />
