@@ -95,7 +95,7 @@
 
 <table align="center">  
     <tr><td align="center">
-    
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=radical)
 </td>
 <td align="center">
