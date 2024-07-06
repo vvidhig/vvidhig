@@ -28,7 +28,7 @@
 
 <div align="center">
     
-<img src="vvidhig\header-images\tech-stack.png" height="130" width="700" />
+<img src="header-images\tech-stack.png" height="130" width="700" />
 
 ![Python](https://img.shields.io/badge/Python-D83A7C?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-F8D847?style=for-the-badge&logo=c&logoColor=white) 
