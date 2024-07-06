@@ -95,6 +95,12 @@
 
 <table align="center">  
     <tr><td align="center">
+    <a href="/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig&layout=compact&theme=radical" width="500"/></a>
+</td>
+    <td align="center">
+        <a href="/"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vvidhig&theme=radical" width="500"/></a>
+    </td></tr>
+    <tr><td align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=radical)
 </td>
@@ -115,24 +121,16 @@
 #
 
 <div align="center">
-
 <img src="https://github.com/vvidhig/vvidhig/blob/main/project.png" height="120" width="700" />
-
-<table align="center" cellspacing="3"><tr><td>
+<table align="center" cellspacing="3">
+<tr><td>
 <a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=radical" width="500"></a>
-
 </td><td>
-
 <a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=radical" width="500"></a>
-
 </td></tr><tr><td>
-
 <a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=radical" width="500"></a>
-
 </td><td>
-
 <a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=radical" width="500"></a>
-
 </td></tr>
 <tr>
     <td align="center" colspan="2"><h3 align="center">please consider giving some of the repos a &nbsp;★&nbsp;!</h3></td>
