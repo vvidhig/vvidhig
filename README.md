@@ -18,18 +18,27 @@
 
 </p>
 
+<p>  
+  <a href="https://www.linkedin.com/in/vvidhig310105/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+
 ```
  only I get to call my dreams stupid - roronoa zoro
 ```
 
-#
-
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <div align="center">
     
 # Tech Stack
-
 <img src="skills/aws.jpg" height="50" width="50">
 <img src="skills/azure.png" height="50" width="50">
 <img src="skills/c.png" height="50" width="50">
@@ -63,38 +72,11 @@
 <img src="skills/tensorflow.png" height="50" width="50">
 <img src="skills/vscode.jpg" height="50" width="50">
 <img src="skills/pycharm.jpeg" height="50" width="50">
-
-
 </div>
 
-#
+<div align="center"><br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
-<div align="center">
-
-# Connect with me
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D83A7C?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://agritech-milano.slack.com/team/U0712TN1PA4">
-<img src="https://img.shields.io/badge/Slack-F8D847?style=for-the-badge&logo=slack&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vvidhig310105/">
-<img src="https://img.shields.io/badge/Linkedin-AE81FF?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/vvidhig/?">
-<img src="https://img.shields.io/badge/Instagram-A9FEF7?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-</div>
-
-#
-
-<div align="center">
-    
 # Statistics
 
 <table align="center">  
@@ -121,8 +103,7 @@
 </p></td> </tr>
 </table>
 </div>
-
-#
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
 <div align="center">
 
@@ -142,6 +123,9 @@
     <td align="center" colspan="2"><h3 align="center"> consider giving some of the repos a &nbsp;🌟 &nbsp;!</h3></td>
 </tr></table>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+
 
 
 
