@@ -139,7 +139,7 @@
 <a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=radical" width="500"></a>
 </td></tr>
 <tr>
-    <td align="center" colspan="2"><h3 align="center">please consider giving some of the repos a &nbsp;★&nbsp;!</h3></td>
+    <td align="center" colspan="2"><h3 align="center"> consider giving some of the repos a &nbsp;🌟 &nbsp;!</h3></td>
 </tr></table>
 </div>
 
