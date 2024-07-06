@@ -55,11 +55,15 @@
 <img src="skills/python.webp" height="50" width="50">
 <img src="skills/pytorch.png" height="50" width="50">
 <img src="skills/react.png" height="50" width="50">
+<img src="skills/scipy.png" height="50" width="50">
+<img src="skills/seaborn.png" height="50" width="50">
 <img src="skills/sklearn.png" height="50" width="50">
 <img src="skills/streamlit.png" height="50" width="50">
 <img src="skills/tableau.png" height="50" width="50">
 <img src="skills/tensorflow.png" height="50" width="50">
 <img src="skills/vscode.jpg" height="50" width="50">
+<img src="skills/pycharm.jpeg" height="50" width="50">
+
 
 </div>
 
