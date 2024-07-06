@@ -1,10 +1,9 @@
-<h1 align="right"><a href="https://komarev.com/ghpvc/?username=vvidhig"><img align="center" src="https://komarev.com/ghpvc/?username=vvidhig&label=Viewers&color=000000&style=flat" alt="Profile visitor" height="30" width="120"/></a></h1>
-
-<h1 align="center">
-    <img src="header-images\c033b4758102573e65c8b1920c9bfbff.gif" height="350" width="900" />
-</h1>
+<p align="center" width="100%" id="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=header&text=नमस्ते!%20I%20am%20Vidhi🙏🏼" width="100%">
+</p>
 
 <div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvidhig&label=Profile%20views&color=0e75b6&style=flat" alt="vvidhig" height="30" width="130"></p>
      
 - pursuing a bachelor's degree in computer science (2026 batch)
 
@@ -25,14 +24,7 @@
   <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
-
-
-```
- only I get to call my dreams stupid - roronoa zoro
-```
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
@@ -120,11 +112,14 @@
 <a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=radical" width="500"></a>
 </td></tr>
 <tr>
-    <td align="center" colspan="2"><h3 align="center"> consider giving some of the repos a &nbsp;🌟 &nbsp;!</h3></td>
+    <td align="center" colspan="2"><h3 align="center">Please consider giving some of the repos a &nbsp;🌟&nbsp;!</h3></td>
 </tr></table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+<p align="center" width="100%" id="footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=footer&text=Have%20a%20great%20day!" width="100%">
+</p>
+
 
 
 
