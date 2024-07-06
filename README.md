@@ -30,6 +30,8 @@
     
 # Tech Stack
 
+<img src="skills\aws.jpg" height="20" width="20">
+
 ![Python](https://img.shields.io/badge/Python-D83A7C?style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-F8D847?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-AE81FF?style=for-the-badge&logo=java&logoColor=white)
