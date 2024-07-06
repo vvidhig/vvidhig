@@ -31,39 +31,39 @@
 <div align="center">
     
 # Tech Stack
-<img src="skills/aws.jpg" height="50" width="50">
-<img src="skills/azure.png" height="50" width="50">
-<img src="skills/c.png" height="50" width="50">
-<img src="skills/css.png" height="50" width="50">
-<img src="skills/docker.png" height="50" width="50">
-<img src="skills/fastapi.png" height="50" width="50">
-<img src="skills/flask.png" height="50" width="50">
-<img src="skills/git.png" height="50" width="50">
-<img src="skills/github.jpg" height="50" width="50">
-<img src="skills/grafana.png" height="50" width="50">
-<img src="skills/html.jpg" height="50" width="50">
-<img src="skills/java.webp" height="50" width="50">
-<img src="skills/jenkins.png" height="50" width="50">
-<img src="skills/kubernetes.png" height="50" width="50">
-<img src="skills/linux.png" height="50" width="50">
-<img src="skills/mlflow.png" height="50" width="50">
-<img src="skills/mysql.png" height="50" width="50">
-<img src="skills/numpy.webp" height="50" width="50">
-<img src="skills/opencv.png" height="50" width="50">
-<img src="skills/pandas.png" height="50" width="50">
-<img src="skills/postman.png" height="50" width="50">
-<img src="skills/prometheus.png" height="50" width="50">
-<img src="skills/python.webp" height="50" width="50">
-<img src="skills/pytorch.png" height="50" width="50">
-<img src="skills/react.png" height="50" width="50">
-<img src="skills/scipy.png" height="50" width="50">
-<img src="skills/seaborn.png" height="50" width="50">
-<img src="skills/sklearn.png" height="50" width="50">
-<img src="skills/streamlit.png" height="50" width="50">
-<img src="skills/tableau.png" height="50" width="50">
-<img src="skills/tensorflow.png" height="50" width="50">
-<img src="skills/vscode.jpg" height="50" width="50">
-<img src="skills/pycharm.jpeg" height="50" width="50">
+<img src="skills/aws.jpg" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/azure.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/c.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/css.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/docker.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/fastapi.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/flask.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/git.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/github.jpg" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/grafana.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/html.jpg" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/java.webp" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/jenkins.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/kubernetes.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/linux.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/mlflow.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/mysql.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/numpy.webp" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/opencv.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/pandas.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/postman.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/prometheus.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/python.webp" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/pytorch.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/react.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/scipy.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/seaborn.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/sklearn.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/streamlit.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/tableau.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/tensorflow.png" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/vscode.jpg" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/pycharm.jpeg" height="50" width="50" style="border-radius: 10px;">
 </div>
 
 <div align="center"><br/>
