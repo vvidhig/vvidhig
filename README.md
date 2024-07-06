@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github.com/vvidhig/vvidhig/blob/main/connectwithme.png" height="130" width="700" />
+<img src="header-images\statistics.png" height="130" width="700" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
@@ -91,7 +91,7 @@
 
 <div align="center">
     
-<img src="https://github.com/vvidhig/vvidhig/blob/main/githubactivity.png" height="130" width="650" />
+<img src="header-images\projects.png" height="130" width="650" />
 
 <table align="center">  
     <tr><td align="center">
