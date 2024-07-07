@@ -28,39 +28,39 @@
 <div align="center">
     
 # Tech Stack
-<img src="skills/aws.jpg" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/azure.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/c.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/css.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/docker.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/fastapi.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/flask.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/git.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/github.jpg" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/grafana.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/html.jpg" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/java.webp" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/jenkins.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/kubernetes.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/linux.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/mlflow.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/mysql.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/numpy.webp" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/opencv.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/pandas.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/postman.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/prometheus.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/python.webp" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/pytorch.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/react.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/scipy.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/seaborn.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/sklearn.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/streamlit.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/tableau.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/tensorflow.png" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/vscode.jpg" height="50" width="50" style="border-radius: 10px;">
-<img src="skills/pycharm.jpeg" height="50" width="50" style="border-radius: 10px;">
+<img src="skills/aws.jpg" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/azure.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/c.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/css.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/docker.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/fastapi.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/flask.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/git.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/github.jpg" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/grafana.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/html.jpg" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/java.webp" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/jenkins.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/kubernetes.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/linux.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/mlflow.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/mysql.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/numpy.webp" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/opencv.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/pandas.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/postman.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/prometheus.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/python.webp" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/pytorch.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/react.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/scipy.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/seaborn.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/sklearn.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/streamlit.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/tableau.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/tensorflow.png" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/vscode.jpg" height="40" width="40" style="border-radius: 10px;">
+<img src="skills/pycharm.jpeg" height="40" width="40" style="border-radius: 10px;">
 </div>
 
 <div align="center"><br/>
@@ -70,25 +70,25 @@
 
 <table align="center">  
     <tr><td align="center">
-    <a href="/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig&layout=compact&theme=radical" width="500"/></a>
+    <a href="/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig&hide_border=true&layout=compact&theme=radical" width="500"/></a>
 </td>
     <td align="center">
-        <a href="/"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vvidhig&theme=radical" width="500"/></a>
+        <a href="/"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vvidhig&hide_border=true&theme=radical" width="500"/></a>
     </td></tr>
     <tr><td align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vvidhig&hide_border=true&theme=radical)
 </td>
 <td align="center">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&show_icons=true\&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&hide_border=true&show_icons=true\&theme=radical)
 
 </td></tr>
     <tr>
         <td align="center" colspan="2">
             <p align="center">
               <a href="https://github.com/vvidhig">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvidhig&theme=radical" alt="Vidhi's GitHub Contribution" width="1000"/>  </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvidhig&hide_border=true&theme=radical" alt="Vidhi's GitHub Contribution" width="1000"/>  </a>
 </p></td> </tr>
 </table>
 </div>
@@ -100,13 +100,13 @@
 
 <table align="center" cellspacing="3">
 <tr><td>
-<a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=radical" width="500"></a>
+<a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&hide_border=true&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=radical" width="500"></a>
 </td><td>
-<a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=radical" width="500"></a>
+<a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&hide_border=true&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=radical" width="500"></a>
 </td></tr><tr><td>
-<a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=radical" width="500"></a>
+<a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&hide_border=true&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=radical" width="500"></a>
 </td><td>
-<a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=radical" width="500"></a>
+<a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&hide_border=true&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=radical" width="500"></a>
 </td></tr>
 <tr>
     <td align="center" colspan="2"><h3 align="center">Please consider giving some of the repos a &nbsp;🌟&nbsp;!</h3></td>
