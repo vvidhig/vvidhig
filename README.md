@@ -1,23 +1,20 @@
-<p align="center" width="100%" id="header">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=header&text=नमस्ते!%20I%20am%20Vidhi🙏🏼" width="100%">
-</p>
+<h1 align="center">
+  <span style="color: aqua">नमस्ते! Hello! こんにちは! I am Vidhi</span> <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>
+</h1>
 
-<div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvidhig&label=Profile%20views&color=0e75b6&style=flat" alt="vvidhig" height="30" width="130"></p>
-     
-- pursuing a bachelor's degree in computer science (2026 batch)
+<h3 align="center">
+  <div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvidhig&label=Profile%20views&color=0e75b6&style=flat" alt="vvidhig" height="30" width="130"></p>
+  </div>
+<img src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="30" height="30" align="center"/> Vidhi Gupta |
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Aspiring Data Scientist | 
+<img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Kolkata, India
+</h3>
 
-- lives in Kolkata, India (from Gorakhpur)
-  
-- working as a junior data scientist at Omdena
-
-- learning gen ai and mlops right now
-
-- a bookworm and a weeb
-
-</p>
-
-<p>  
+<p align="center">
+  ⚡ I'm an aspiring Data Scientist with a deep passion for uncovering insights and crafting innovative solutions. When I'm not delving into data, you'll find me immersed in a good book or enjoying the latest anime. I thrive on creativity and innovation, always seeking new ways to push the boundaries of what's possible. With so much left to explore in the world of data science, I firmly believe that constant learning and curiosity are the keys to success.
+  <br/>
+  <p align="center">  
   <a href="https://www.linkedin.com/in/vvidhig310105/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -25,7 +22,7 @@
     <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-</div>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <div align="center">
