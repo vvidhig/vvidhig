@@ -21,6 +21,9 @@
   <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/vvidhig/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 </p>
 
