@@ -32,19 +32,13 @@
     
 # Tech Stack
 <img src="skills/aws.jpg" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/azure.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/c.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/css.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/docker.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/fastapi.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/flask.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/git.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/github.jpg" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/grafana.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/html.jpg" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/java.webp" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/jenkins.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/kubernetes.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/linux.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/mlflow.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/mysql.png" height="40" width="40" style="border-radius: 10px;">
@@ -52,7 +46,6 @@
 <img src="skills/opencv.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/pandas.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/postman.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/prometheus.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/python.webp" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/pytorch.png" height="40" width="40" style="border-radius: 10px;">
 <img src="skills/react.png" height="40" width="40" style="border-radius: 10px;">
