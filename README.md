@@ -15,7 +15,7 @@
   ⚡ I'm an aspiring Data Scientist with a deep passion for uncovering insights and crafting innovative solutions. When I'm not delving into data, you'll find me immersed in a good book or enjoying the latest anime. I thrive on creativity and innovation, always seeking new ways to push the boundaries of what's possible. With so much left to explore in the world of data science, I firmly believe that constant learning and curiosity are the keys to success.
   <br/>
   <p align="center">  
-  <a href="https://www.linkedin.com/in/vvidhig310105/">
+  <a href="https://www.linkedin.com/in/vidhigupta310105/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/u/?authuser=vidhidoesnotreply@gmail.com">
