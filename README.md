@@ -31,11 +31,7 @@
 <div align="center">
     
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,linux,react,tailwind,express,nodejs,mongodb,mysql,python,tensorflow,pytorch,vscode,git,tableau,streamlit)](https://skillicons.dev)
-</div>
-
-<div align="center"><br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,linux,react,tailwind,express,nodejs,mongodb,mysql,python,tensorflow,pytorch,vscode,git,tableau,streamlit)](https://skillicons.dev) </div>
 
 # Statistics
 
