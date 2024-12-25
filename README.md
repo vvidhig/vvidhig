@@ -31,32 +31,7 @@
 <div align="center">
     
 # Tech Stack
-<img src="skills/aws.jpg" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/c.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/css.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/flask.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/git.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/github.jpg" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/html.jpg" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/java.webp" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/linux.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/mlflow.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/mysql.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/numpy.webp" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/opencv.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/pandas.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/postman.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/python.webp" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/pytorch.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/react.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/scipy.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/seaborn.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/sklearn.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/streamlit.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/tableau.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/tensorflow.png" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/vscode.jpg" height="40" width="40" style="border-radius: 10px;">
-<img src="skills/pycharm.jpeg" height="40" width="40" style="border-radius: 10px;">
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,linux,react,tailwind,express,nodejs,mongodb,mysql,python,tensorflow,pytorch,vscode,git,tableau,streamlit)](https://skillicons.dev)
 </div>
 
 <div align="center"><br/>
