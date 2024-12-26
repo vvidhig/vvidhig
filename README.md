@@ -67,13 +67,13 @@
 
 <table align="center" cellspacing="3">
 <tr><td>
-<a href="https://github.com/vvidhig/Loan-Prediction-Model-Package"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&hide_border=true&repo=Loan-Prediction-Model-Package&cache_seconds=86400&theme=radical" width="500"></a>
+<a href="https://github.com/vvidhig/Breast-Cancer-Survival-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&hide_border=true&repo=Breast-Cancer-Survival-Prediction-Model&cache_seconds=86400&theme=radical" width="500"></a>
 </td><td>
 <a href="https://github.com/vvidhig/Malarial-Cell-Detection-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&hide_border=true&repo=Malarial-Cell-Detection-Model&cache_seconds=86400&theme=radical" width="500"></a>
 </td></tr><tr><td>
 <a href="https://github.com/vvidhig/Human-Activity-Recognition-using-Smartphone-Data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&hide_border=true&repo=Human-Activity-Recognition-using-Smartphone-Data&cache_seconds=86400&theme=radical" width="500"></a>
 </td><td>
-<a href="https://github.com/vvidhig/Solar-Irradiance-Prediction-Model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&hide_border=true&repo=Solar-Irradiance-Prediction-Model&cache_seconds=86400&theme=radical" width="500"></a>
+<a href="https://github.com/vvidhig/Social-Media-Friend-Recommender"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vvidhig&hide_border=true&repo=Social-Media-Friend-Recommender&cache_seconds=86400&theme=radical" width="500"></a>
 </td></tr>
 <tr>
     <td align="center" colspan="2"><h3 align="center">Please consider giving some of the repos a &nbsp;🌟&nbsp;!</h3></td>
