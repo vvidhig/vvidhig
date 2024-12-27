@@ -31,10 +31,11 @@
 <div align="center">
     
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,linux,react,tailwind,express,nodejs,mongodb,mysql,python,tensorflow,pytorch,vscode,git,tableau,streamlit)](https://skillicons.dev) </div>
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,linux,react,tailwind,express,nodejs,mongodb,mysql,python,tensorflow,pytorch,vscode,git,tableau,streamlit)](https://skillicons.dev) 
 
 # Statistics
 
+</div>
 <table align="center">  
     <tr><td align="center">
     <a href="/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig&hide_border=true&layout=compact&theme=radical" width="500"/></a>
