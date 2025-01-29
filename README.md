@@ -27,7 +27,7 @@
 <div align="center">
     
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,linux,react,tailwind,express,nodejs,mongodb,mysql,python,tensorflow,pytorch,vscode,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,js,r,linux,react,tailwind,express,nodejs,mongodb,mysql,opencv,tensorflow,pytorch,vscode,git,aws)](https://skillicons.dev)
 
 # Statistics
 
