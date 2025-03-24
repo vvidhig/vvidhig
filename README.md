@@ -14,7 +14,7 @@
 </h3>
 
 <p align="center">
-  ⚡ I'm an aspiring Data Scientist with a deep passion for uncovering insights and crafting innovative solutions. When I'm not delving into data, you'll find me immersed in a good book or enjoying the latest anime. I thrive on creativity and innovation, always seeking new ways to push the boundaries of what's possible. With so much left to explore in the world of data science, I firmly believe that constant learning and curiosity are the keys to success.
+  ⚡ I'm an Computer Science Undergrad with a deep passion for uncovering insights and crafting innovative solutions. When I'm not delving into data, you'll find me immersed in a good book or enjoying the latest anime. I thrive on creativity and innovation, always seeking new ways to push the boundaries of what's possible. With so much left to explore in the world of technology, I firmly believe that constant learning and curiosity are the keys to success.
   <br/>
   <p align="center">  
   <a href="https://www.linkedin.com/in/vidhigupta310105/">
