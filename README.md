@@ -9,8 +9,8 @@
 <!--   <p align="center">
     <img src="https://leetcard.jacoblin.cool/vvidhig?ext=contest" alt="LeetCode Stats" width="45%"/>
   </p> -->
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Aspiring Data Scientist | 
-<img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Kolkata, India
+<!-- <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Aspiring Data Scientist | 
+<img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Kolkata, India -->
 </h3>
 
 <p align="center">
