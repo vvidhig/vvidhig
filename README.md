@@ -3,19 +3,23 @@
 </h1>
 
 <h3 align="center">
-  <div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvidhig&label=Profile%20views&color=0e75b6&style=flat" alt="vvidhig" height="30" width="130"></p>
-  </div>
 <!--   <p align="center">
     <img src="https://leetcard.jacoblin.cool/vvidhig?ext=contest" alt="LeetCode Stats" width="45%"/>
   </p> -->
 <!-- <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" height="30" align="center"/> Aspiring Data Scientist | 
 <img src="https://media.giphy.com/media/57ZONYwnLOKVgLuApK/giphy.gif" width="30" height="30" align="center"/> Kolkata, India -->
 </h3>
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvidhig&label=Profile%20views&color=0e75b6&style=flat" alt="vvidhig" height="30" width="130"></p>
+</div>
+<p>
+I like building things that make me stop and say, <b>"wait... that's actually pretty cool."</b>
+  
+Most of my repositories start as random 2 AM ideas, spiral into "this shouldn't be this complicated," and somehow end up becoming real products.
 
-<p align="center">
-  ⚡ I'm an Computer Science Undergrad with a deep passion for uncovering insights and crafting innovative solutions. When I'm not delving into data, you'll find me immersed in a good book or enjoying the latest anime. I thrive on creativity and innovation, always seeking new ways to push the boundaries of what's possible. With so much left to explore in the world of technology, I firmly believe that constant learning and curiosity are the keys to success.
-  <br/>
+Outside of coding, you'll usually find me lifting weights at the gym, pretending I'm getting better at the guitar, reading anything that catches my attention, painting when I need a break from screens, or helping students discover that computer science isn't actually as scary as it looks.
+
+And somewhere in between all of that, there's always another side project waiting to steal my sleep.
   <p align="center">  
   <a href="https://www.linkedin.com/in/vidhigupta310105/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
