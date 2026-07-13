@@ -37,7 +37,7 @@
 </div>
 <table align="center">  
     <tr><td align="center">
-    <a href="/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvidhig&hide_border=true&layout=compact&theme=radical" width="500"/></a>
+    <a href="/"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vvidhig&hide_border=true&layout=compact&theme=radical" width="500"/></a>
 </td>
     <td align="center">
         <a href="/"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vvidhig&hide_border=true&theme=radical" width="500"/></a>
@@ -48,7 +48,7 @@
 </td>
 <td align="center">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvidhig\&hide_border=true&show_icons=true\&theme=radical)
+![My GitHub stats](https://github-stats-extended.vercel.app/api?username=vvidhig\&hide_border=true&show_icons=true\&theme=radical)
 
 </td></tr>
     <tr>
