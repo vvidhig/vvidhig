@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color: aqua">नमस्ते! Hello! こんにちは! I am Vidhi</span> <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="60" height="60"  align="center"/>
+  <span style="color: aqua">नमस्ते! Hello! こんにちは! I am Vidhi</span> <img src="header-images/1.gif" width="60" height="60"  align="center"/>
 </h1>
 
 <div>
